@@ -6,15 +6,13 @@
 Technology : Data Analytics
 
 
-Team Size : 4
+Team Size : 2
 
 Team Leader : MANOJ CHAKRAVARITY H
 
 Team member : MOHAN BABU V
 
-Team member : SRIDHARSAN S
 
-Team member : PRAGADEESHWARAN N
 
 
 ## :hospital: Description 
