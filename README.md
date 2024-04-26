@@ -1,6 +1,6 @@
 # Analytics for Hospitals' Health-Care Data
 
-![Blue and Yellow Professional Business YouTube Thumbnail](https://user-images.githubusercontent.com/109473993/215019012-f7a10c5d-8b31-4a6d-ae0d-34ea62987045.jpg)
+![Blue and Yellow Professional Business YouTube Thumbnail](https://github.com/MANOJ-CHAKRAVARITY/Analytics-for-Hospital-Healthcare-Data/assets/109473993/d728fd5e-78c0-4aa9-a47e-9b1144ebe55a)
 
 ## 🏃 Team Details:
 Technology : Data Analytics
